@@ -1,0 +1,4 @@
+*.tsbuildinfo
+generated
+lib
+node_modules

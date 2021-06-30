@@ -1,0 +1,15 @@
+{
+  "name": "consumer",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "gen": "0.0.0"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "typescript": "^4.3.4"
+  },
+  "scripts": {
+    "build": "tsc -b"
+  }
+}

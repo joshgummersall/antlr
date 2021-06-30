@@ -1,0 +1,8 @@
+{
+  "name": "antlr",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "build": "yarn workspace gen build && yarn workspace consumer build"
+  }
+}
